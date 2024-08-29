@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "role": "Full Stack Development using MERN",
+    "organisation": "UNITED GLOBAL INFOSERVICE PVT.LTD",
+    "startDate": "August, 2023",
+    "endDate": "sept,2023",
+    "location": "",
+    "experiences": [
+      "Project - instagram clone",
+      ""
+    ],
+    "imageSrc": ""
+  },
+  {
+    "id": 2,
+    "role": "CORE JAVA ",
+    "organisation": "ASPIREVISION TECH EDUCATION PVT.LTD",
+    "startDate": "August, 2021",
+    "endDate": "Aug, 2021",
+    "location": "",
+    "experiences": [
+      "Project - Employee Managment System",
+      ""
+    ],
+    "imageSrc": ""
+  },
+  {
+    "id": 3,
+    "role": "Software Development Engineer - Intern",
+    "organisation": "college project",
+    "startDate": "Apr, 2024",
+    "endDate": "Jun, 2024",
+    "location": "",
+    "experiences": [
+      "Worked on Clinic Management System",
+      ""
+    ],
+    "imageSrc": ""
+  }
+]

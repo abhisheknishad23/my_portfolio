@@ -1,0 +1,21 @@
+.ex {
+    
+    text-align: center;
+    /* width: 900px; */
+    
+   }
+ 
+  
+   .ex-items {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: var(--bg-color);
+    margin: 30px;
+    padding: 30px;
+    width: px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+   }
